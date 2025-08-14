@@ -12,3 +12,7 @@ The Text Analyzer App is a simple Python program that lets users input any text,
 🧠 Extra: Whitespace count (bonus feature!)
 
 It’s perfect for beginners practicing string manipulation and logic building
+
+
+## 📷 Screenshot
+![Text Analyzer App Screenshot](text-analyzer-screenshot.PNG)
