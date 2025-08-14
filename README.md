@@ -15,4 +15,4 @@ It’s perfect for beginners practicing string manipulation and logic building
 
 
 ## 📷 Screenshot
-![Text Analyzer App Screenshot](text-analyzer-screenshot.PNG)
+![Text Analyzer App Screenshot](text-analyzer.PNG)
